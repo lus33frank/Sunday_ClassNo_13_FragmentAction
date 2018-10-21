@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/xml_layout_height"
+    android:orientation="vertical"
+    tools:context="tw.com.changchinghsiang.sunday_classno_13_fragmentaction.Fragment2"
+    android:background="#00AAFF">
+
+    <TextView
+        android:id="@+id/tvFragment2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xml_textView_fragment2"
+        android:layout_marginBottom="@dimen/xml_layout_marginBottom"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/xml_button_submit" />
+
+</LinearLayout>

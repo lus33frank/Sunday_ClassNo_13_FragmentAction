@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">No:13_FragmentAction</string>
+    <string name="xml_textView_fragment_system">Fragment System</string>
+    <string name="xml_textView_fragment1">fragment1</string>
+    <string name="xml_textView_fragment2">fragment2</string>
+    <string name="xml_button_submit">Submit</string>
+    <string name="xml_button_fragnormal">FragNormal</string>
+    <string name="xml_button_mobilestatus">MobileStatus</string>
+</resources>
